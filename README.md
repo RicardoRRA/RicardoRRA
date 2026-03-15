@@ -35,12 +35,6 @@ Scripts para aprendizado de redes e segurança.
 
 ---
 
-## 📈 GitHub Stats
-
-![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
-
----
-
 ## 🎯 Objetivo
 
 Atuar profissionalmente na área de **Segurança da Informação**, com foco em **Pentest e Ethical Hacking**.
