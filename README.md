@@ -2,7 +2,7 @@
 
 💻 Estudante de Segurança da Informação  
 🔐 Focado em Ethical Hacking e Pentest  
-📚 Atualmente estudando pela Solyd e Cisco  
+📚 Atualmente estudando pela Solyd  
 
 ---
 
