@@ -29,11 +29,16 @@
 
 ## 🔬 Projetos
 
-🔹 API de Países em Python  
+🔬 Projetos
+
+🔹 API de Países em Python
 Projeto utilizando API REST para consulta de países, moedas e população.
 
-🔹 Scripts de automação em Python  
+🔹 Scripts de automação em Python
 Scripts para aprendizado de redes e segurança.
+
+🔹 Bot de consulta de criptomoedas
+Bot integrado a APIs de sites de moedas virtuais para obter cotações, variações e informações em tempo real.
 
 ---
 
